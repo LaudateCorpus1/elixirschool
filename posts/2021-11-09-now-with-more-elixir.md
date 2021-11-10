@@ -85,7 +85,7 @@ defmodule Mix.Tasks.SchoolHouse.Gen.Rss do
 end
 ```
 
-The sitemap generator follows a similar format but the value of content and it's structure makes the task a bit more complicated. We break down the generation into a couple steps:
+The sitemap generator follows a similar format but the value of content and its structure makes the task a bit more complicated. We break down the generation into a couple of steps:
 
 1. Add the blog index and our privacy policy
 
