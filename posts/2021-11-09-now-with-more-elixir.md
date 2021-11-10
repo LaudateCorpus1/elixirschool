@@ -37,7 +37,7 @@ We'll be covering our usage of NimblePublisher in follow-on blog posts.
 
 Custom mix tasks are employed for two main purposes today: sitemap generation and the rss feed. These two tasks leverage the content module we built with NimblePublisher.
 
-Of the two tasks the RSS feed is the most straight forward, we enumerate our list of blog posts and build up an XML document:
+Of the two tasks the RSS feed is the most straightforward, we enumerate our list of blog posts and build up an XML document:
 
 ```elixir
 defmodule Mix.Tasks.SchoolHouse.Gen.Rss do
