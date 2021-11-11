@@ -176,7 +176,7 @@ With this launch we also restructured our content into new sections! This paves 
 
 2. **Data Processing**
 
-   1. New Leson: Broadway library by Dashbit
+   1. New Lesson: Broadway library by Dashbit
    2. New Lesson: Flow
 
    Together these give us coverage of the data trifect: GenStage, Flow, and Broadway.
