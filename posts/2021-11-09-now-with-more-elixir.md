@@ -171,7 +171,7 @@ With this launch we also restructured our content into new sections! This paves 
 
 1. **Advanced Content**
 
-   1. Dedicated meta programming lesson that explores this powerful functionality
+   1. Dedicated metaprogramming lesson that explores this powerful functionality
    2. Greatly expanding on our Specifications and Type content
 
 2. **Data Processing**
