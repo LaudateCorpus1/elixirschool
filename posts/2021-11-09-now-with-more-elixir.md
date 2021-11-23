@@ -31,7 +31,7 @@ Without further ado let's look at how we got from Jekyll to Phoenix!
 
 The single biggest hurdle in our journey from Jekyll to Phoenix has been figuring out the best way to migrate the existing content without rewriting it, losing contributor history, or adding additional burdens on contributors. Enter Dashbit's NimblePublisher library!
 
-We'll be covering our usage of NimblePublisher in follow-on blog posts.
+We'll be covering our usage of NimblePublisher in follow-on blog posts, until then don't forget to check out our [NimblePublisher](https://elixirschool.com/en/lessons/misc/nimble_publisher) lesson!
 
 ### Custom mix Tasks
 
