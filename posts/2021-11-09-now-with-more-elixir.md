@@ -17,7 +17,7 @@ If you follow us on Twitter then you may have gotten a sneak peek at the new sit
 
 ## TL;DR The History
 
-The very first commit for Elixir School took place the day after my birthday many moons ago now: May 31, 2015. Since then the project has evolved from me to over 500 individuals who've contributed new content, translations, and other improvements. As things grew it became clear we needed to migrate from markdown in a repo, and given the lack of options in the Elixir space at the time, we selected Jekyll. Jekyll got us online and continues to serve us well provide a static site that handles 10s of thousands of weekly users all across the globe.
+The very first commit for Elixir School took place the day after my birthday many moons ago now: May 31, 2015. Since then the project has evolved from me to over 500 individuals who've contributed new content, translations, and other improvements. As things grew it became clear we needed to migrate from markdown in a repo, and given the lack of options in the Elixir space at the time, we selected Jekyll. Jekyll got us online and served us well to provide a static site that handled 10s of thousands of weekly users across the globe.
 
 But there's something about the place to go for learning Elixir to be built on a Ruby tool. Not to mention the simplicity of a static site is great but hampers some of the cooler ideas we've had.
 
