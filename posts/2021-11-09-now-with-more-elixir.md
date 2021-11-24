@@ -21,7 +21,7 @@ The very first commit for Elixir School took place the day after my birthday man
 
 But there's something about the place to go for learning Elixir to be built on a Ruby tool. Not to mention the simplicity of a static site is great but hampers some of the cooler ideas we've had.
 
-Fast forward six years later and there's a vibrant community around Elixir and with this wealth of experience, perspective, and background has come some really wonderful tooling.
+Fast forward six years later and there's a vibrant community around Elixir. With this wealth of experience, perspective, and background has come some really wonderful tooling.
 
 Without further ado let's look at how we got from Jekyll to Phoenix!
 
