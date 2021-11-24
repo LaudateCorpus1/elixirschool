@@ -179,7 +179,7 @@ With this launch we also restructured our content into new sections! This paves 
    1. New Lesson: [Broadway](https://github.com/dashbitco/broadway) library by Dashbit
    2. New Lesson: [Flow](https://github.com/dashbitco/flow) library by Dashbit
 
-   Together these give us coverage of the data trifect: GenStage, Flow, and Broadway.
+   Together these give us coverage of the data trifecta: GenStage, Flow, and Broadway.
 
 3. **Ecto**
 
