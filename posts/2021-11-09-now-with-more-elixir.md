@@ -202,7 +202,7 @@ We continue to discuss the possibility and value of expanding into Phoenix and E
 Our lessons aren't all! We've got a lot of exciting blog content in mind for the coming months:
 
 1. We plan to resume our book, course, and conference reviews to continue to provide the community with an unbiased resource on which learning materials available to them are worth the expense.
-2. In conjunction with Elixir Companies we're going to be kicking off a new blog series on companies using Elixir. Some of the questions you've been asking we aim to answer: Who's using Elixir? How did they end up selecting Elixir? How has the onboarding been? What is Elixir used for?
+2. In conjunction with [Elixir Companies](https://elixir-companies.com/en) we're going to be kicking off a new blog series on companies using Elixir. Some of the questions you've been asking we aim to answer: Who's using Elixir? How did they end up selecting Elixir? How has the onboarding been? What is Elixir used for?
 3. Community Spotlights! There are **a lot** of amazing people in the community many of which don't get the recoginition they deserve. We want to fix that by selecting and highlighting those who're giving back to the community and moving us all forward. There are some terrific people involved in Elixir overshadowed by a smaller louder group and we want to change that!
 
 We're excited about all the new possibilities and content in store and we hope you are too!
