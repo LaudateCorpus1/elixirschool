@@ -153,7 +153,7 @@ The sitemap generator follows a similar format but the value of content and its 
    end
    ```
 
-Both tasks are run in our release process and stored in the static directory to be served alongside things like `robots.txt`:
+Both tasks are run in our release process and stored in the static directory to be served alongside other assets like `robots.txt`:
 
 ```elixir
 plug Plug.Static,
